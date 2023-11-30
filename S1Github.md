@@ -1,4 +1,4 @@
-The process you performed with the Git commands is as follows:
+The process I performed with the Git commands is as follows:
 
 ls: List the contents of the current directory.
 cd desktop: Change to the "desktop" directory.
